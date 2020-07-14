@@ -1,0 +1,21 @@
+{
+  "author": "Andy Armstrong <andy@hexten.net>",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "donut": "github:AndyA/donut#master",
+    "lodash": "^4.17.15"
+  },
+  "description": "",
+  "devDependencies": {
+    "should": "^13.2.3",
+    "tap": "^14.10.7"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "donut-dns",
+  "scripts": {
+    "test": "tap",
+    "tdd": "tap -w"
+  },
+  "version": "0.0.1"
+}
